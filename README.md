@@ -12,7 +12,7 @@
   </a>
   
   <a href="https://www.instagram.com/louis_brthr/?hl=fr">
-    <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>  
 </div>
 
