@@ -58,6 +58,7 @@
 
   <div id ="Photos" align="center">
     <img src="https://user-images.githubusercontent.com/105392989/178432466-78add294-12ed-46ba-85c6-de45bb6066b3.png" width="450" align ="center">
+    <br></br>
     <img src="https://user-images.githubusercontent.com/105392989/178433068-417a8898-1833-43ad-9db6-de7457084dda.png" width="450" align ="center"> 
     <br></br>
     <img src="https://user-images.githubusercontent.com/105392989/178432541-53c7e92c-7c70-46b5-a960-03191dfa6e8e.png" width="350" align ="center"> 
