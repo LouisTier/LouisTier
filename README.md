@@ -33,7 +33,7 @@
 
 - :man: My pronouns are **He/Him**.
 
-- :fr: I am an engineering student from **Toulouse** who specializes in **artificial intelligence and data science** 
+- :fr: I am an engineering student from **Toulouse** who specializes in **artificial intelligence and data science**.   
   <div id ="AI" align="center">
     <img src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif" width="450" align ="center">
   </div>  
@@ -45,7 +45,7 @@
     <img src="https://media.giphy.com/media/HRC3FlKFIj2WAIMDR3/giphy.gif" width="450" align ="center">
   </div>  
 
-- :joystick: I am a **video game enthusiast**. Since I'm little I play as well on console as on computer. Apart from video games, I am a **fan of E-sport** especially with the famous French structure **Karmine Corp** *(KC)*
+- :joystick: I am a **video game enthusiast**. Since I'm little I play as well on console as on computer. Apart from video games, I am a **fan of E-sport** especially with the famous French structure **Karmine Corp** *(KC)*.
   <div id ="KC1" align="center">
     <img src="https://c.tenor.com/7nlyiJsrJAcAAAAd/kcorp-karmine-corp.gif" width="450" align ="center">
   </div>  
@@ -55,6 +55,14 @@
 - :headphones: While working, commuting, playing sports or doing any other activity, **I always listen to music**. I listen to everything from **pop** and **jazz** to **old school music** and **electro**. My favorite thing to listen to is **rap**, American and especially French!
 
 - :camera_flash: Besides the above hobbies, I am also interested in **photography**. Indeed, having participated and been a **finalist in modeling competitions**, photography has interested me. I joined a photo and video association where I was able to **cover many events**, **specialize in photo editing and video editing**.
+
+  <div id ="Photos" align="center">
+    <img src="https://user-images.githubusercontent.com/105392989/178432466-78add294-12ed-46ba-85c6-de45bb6066b3.png" width="450" align ="center">
+    <img src="https://user-images.githubusercontent.com/105392989/178433068-417a8898-1833-43ad-9db6-de7457084dda.png" width="450" align ="center"> 
+    <br></br>
+    <img src="https://user-images.githubusercontent.com/105392989/178432541-53c7e92c-7c70-46b5-a960-03191dfa6e8e.png" width="350" align ="center"> 
+    <img src="https://user-images.githubusercontent.com/105392989/178433915-b435cb3c-db07-4ed1-b4ee-16986e5ac83e.png" width="350" align ="center"> 
+  </div>
 
 - :email: How to reach me:
     1. Personal : **```louis_tier@outlook.com```**
@@ -131,12 +139,16 @@
 
 ### :gift: Some of my work :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=DeepLearning_BrainTumorsClassification&layout=compact&theme=github_dark)](https://github.com/LouisTier/DeepLearning_BrainTumorsClassification)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=Time_Series_Project&layout=compact&theme=github_dark)](https://github.com/LouisTier/Time_Series_Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=KalmanFilter&layout=compact&theme=github_dark)](https://github.com/LouisTier/KalmanFilter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=ArcelorMittal_Application&layout=compact&theme=github_dark)](https://github.com/LouisTier/ArcelorMittal_Application)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=WebScraping_NBA&layout=compact&theme=github_dark)](https://github.com/LouisTier/WebScraping_NBA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=WebApp_NBAStats&layout=compact&theme=github_dark)](https://github.com/LouisTier/WebApp_NBAStats)
+<div id ="Main repos" align="center">
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=DeepLearning_BrainTumorsClassification&layout=compact&theme=github_dark)](https://github.com/LouisTier/DeepLearning_BrainTumorsClassification)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=Time_Series_Project&layout=compact&theme=github_dark)](https://github.com/LouisTier/Time_Series_Project)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=KalmanFilter&layout=compact&theme=github_dark)](https://github.com/LouisTier/KalmanFilter)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=ArcelorMittal_Application&layout=compact&theme=github_dark)](https://github.com/LouisTier/ArcelorMittal_Application)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=WebScraping_NBA&layout=compact&theme=github_dark)](https://github.com/LouisTier/WebScraping_NBA)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=WebApp_NBAStats&layout=compact&theme=github_dark)](https://github.com/LouisTier/WebApp_NBAStats)
+
+</div>
 
 <!--
 Use this section for commentary
