@@ -16,6 +16,10 @@
   </a>  
 </div>
 
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=LouisTier&style=flat-square&color=blue" alt=""/>
+</div>
+
 <div id="hey" align = "center">  
   <h3>
     Nice to meet you !
