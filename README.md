@@ -71,7 +71,8 @@
 
 - :email: How to reach me:
     1. Personal : **```louis_tier@outlook.com```**
-    2. Scholar : **```louis.berthier@mines-ales.org```**
+    2. Scholar (english) : **```louis.berthier22@imperial.ac.uk```** 
+    3. Scholar (french) : **```louis.berthier@mines-ales.org```**
     
 ---
 
