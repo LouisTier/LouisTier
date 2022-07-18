@@ -117,7 +117,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80"/>
       
 
-  - **Operating system and distribution :**  
+  - **Operating systems and distribution :**  
   
       <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>&nbsp;
