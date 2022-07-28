@@ -70,10 +70,10 @@
   </div>
 
 - :email: How to reach me:
-    1. Personal : **```louis_tier@outlook.com```**
-    2. Scholar (english) : **```louis.berthier22@imperial.ac.uk```** 
-    3. Scholar (french) : **```louis.berthier@mines-ales.org```**
-    
+    1. [Personal](mailto:louis_tier@outlook.com?subject=[GitHub%20LouisTier]%20:%20)
+    2. [Imperial College London](mailto:louis.berthier22@imperial.ac.uk?subject=[GitHub%20LouisTier]%20:%20) 
+    3. [IMT Mines Alès](mailto:louis.berthier@mines-ales.org?subject=[GitHub%20LouisTier]%20:%20) 
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
