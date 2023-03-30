@@ -29,36 +29,43 @@
 
 ---
 
+<!--
 <div id ="banner" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
+-->
 
 ### :battery: Let's get acquainted : 
 
-- :man: My pronouns are **He/Him**.
+- My pronouns are **He/Him**.
 
-- :fr: I am an engineering student from **Toulouse** who specializes in **artificial intelligence and data science**.   
+- I am an engineering student from **Toulouse** who specializes in **AI, DS, ML and DL**. 
+
+<!-- 
   <div id ="AI" align="center">
     <img src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif" width="450" align ="center">
   </div>  
+-->
 
-  I am currently studying at **Imperial College** in the MSc Computing AI and ML as part of a second degree to **complement my engineering degree**. This is an opportunity for me to diversify my skills before entering the workforce as a **data scientist/ML engineer** or before continuing my studies in **PhD**.
+- I am currently studying at **Imperial College London** in the MSc Computing AI and ML as part of a second degree to **complement my engineering degree**. This is an opportunity for me to diversify my skills before entering the workforce as a **Data Scientist/ Research Sientist/ ML Engineer** or before continuing my studies as a **PhD student**.
   
-- :basketball: In my leisure time I play many sports like **handball** in a club or **basketball** with friends. I am also interested in the **NBA**.
+- :basketball: In my leisure time I play many sports like **handball** or **basketball** and I'm also interested in the **NBA**.
   <div id ="Curry" align="center">
     <img src="https://media.giphy.com/media/HRC3FlKFIj2WAIMDR3/giphy.gif" width="450" align ="center">
   </div>  
 
-- :joystick: I am a **video game enthusiast**. Since I'm little I play as well on console as on computer. Apart from video games, I am a **fan of E-sport** especially with the famous French structure **Karmine Corp** *(KC)*.
+- :joystick: I am a **video game enthusiast** and I'm a **fan of E-sport** especially with the famous French structure **Karmine Corp**.
   <div id ="KC1" align="center">
     <img src="https://c.tenor.com/7nlyiJsrJAcAAAAd/kcorp-karmine-corp.gif" width="450" align ="center">
   </div>  
 
+<!--
 - :book: I like to read **horror novels** as well as **fantasy and science fiction books**. Apart from that, I'm very interested in **anime and manga**.
 
 - :headphones: While working, commuting, playing sports or doing any other activity, **I always listen to music**. I listen to everything from **pop** and **jazz** to **old school music** and **electro**. My favorite thing to listen to is **rap**, American and especially French!
+-->
 
-- :camera_flash: Besides the above hobbies, I am also interested in **photography**. Indeed, having participated and been a **finalist in modeling competitions**, photography has interested me. I joined a photo and video association where I was able to **cover many events**, **specialize in photo editing and video editing**.
+- :camera_flash: Besides the above hobbies, I am also interested in **photography**. Indeed, having participated and been a **finalist in modeling competitions**, photography has interested me. I joined a photo and video association where I was able to **cover many events** and **specialize in photo/video editing**.
 
   <div id ="Photos" align="center">
     <img src="https://user-images.githubusercontent.com/105392989/178432466-78add294-12ed-46ba-85c6-de45bb6066b3.png" width="450" align ="center">
@@ -71,8 +78,12 @@
 
 - :email: How to reach me:
     1. [Personal](mailto:louis_tier@outlook.com?subject=[GitHub%20LouisTier]%20:%20)
-    2. [Imperial College London](mailto:louis.berthier22@imperial.ac.uk?subject=[GitHub%20LouisTier]%20:%20) 
-    3. [IMT Mines Alès](mailto:louis.berthier@mines-ales.org?subject=[GitHub%20LouisTier]%20:%20) 
+<!--
+Use this section for commentary
+
+    3. [Imperial College London](mailto:louis.berthier22@imperial.ac.uk?subject=[GitHub%20LouisTier]%20:%20) 
+    4. [IMT Mines Alès](mailto:louis.berthier@mines-ales.org?subject=[GitHub%20LouisTier]%20:%20) 
+-->
 
 ---
 
@@ -90,6 +101,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
 
    - **Frameworks :**      
   
@@ -98,6 +110,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="80" height="80"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="80" height="80"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1024px-Google_JAX_logo.svg.png" title="Jax" alt="Jax" width="120" height="80"/>&nbsp;
   
    - **Databases management :**   
   
