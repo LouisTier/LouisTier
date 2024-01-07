@@ -28,11 +28,8 @@
 
 💠 Outside of work, I am a handball player and I'm interested in multiple sports, particularly the **NBA** and **MMA**. I am a big E-sport fan with the famous French structure **Karmine Corp**. I also love taking part in events, taking photos, editing them and sharing them with others!
 
-<div id="GIF" align = "center"> 
-  <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://media.giphy.com/media/HRC3FlKFIj2WAIMDR3/giphy.gif" width="450" style="flex: 1;">
-      <img src="https://c.tenor.com/7nlyiJsrJAcAAAAd/kcorp-karmine-corp.gif" width="415" style="flex: 1;">
-  </div>
+<div id="GIF" align="center">
+  <img src="https://media.giphy.com/media/HRC3FlKFIj2WAIMDR3/giphy.gif" alt="NBA_Curry" width="450"/>
 </div>
 
 ---
@@ -140,7 +137,6 @@ Icons by <a href="https://icons8.com">Icons8</a>.
       ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
       ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-    ![]()
 </div>
 
 ---
@@ -153,7 +149,15 @@ Icons by <a href="https://icons8.com">Icons8</a>.
 
 ![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisTier&show_icons=true&theme=github_dark)
 
----
+<!--
+Use this section to add comments/unused stuff
+
+<div id="GIF" align = "center"> 
+  <div style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://media.giphy.com/media/HRC3FlKFIj2WAIMDR3/giphy.gif" width="450" style="flex: 1;">
+      <img src="https://c.tenor.com/7nlyiJsrJAcAAAAd/kcorp-karmine-corp.gif" width="415" style="flex: 1;">
+  </div>
+</div>
 
 ### 📸 Some of my photos:
   
@@ -167,21 +171,4 @@ Icons by <a href="https://icons8.com">Icons8</a>.
     <img src="https://user-images.githubusercontent.com/105392989/178433915-b435cb3c-db07-4ed1-b4ee-16986e5ac83e.png" width="350" align ="center"> 
   </div>
 
-<!--
-Use this section for commentary
-
----
-
-### :gift: Some of my work :
-
-<div id ="Main repos" align="center">
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=DeepLearning_BrainTumorsClassification&layout=compact&theme=github_dark)](https://github.com/LouisTier/DeepLearning_BrainTumorsClassification)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=Time_Series_Project&layout=compact&theme=github_dark)](https://github.com/LouisTier/Time_Series_Project)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=KalmanFilter&layout=compact&theme=github_dark)](https://github.com/LouisTier/KalmanFilter)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=ArcelorMittal_Application&layout=compact&theme=github_dark)](https://github.com/LouisTier/ArcelorMittal_Application)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=WebScraping_NBA&layout=compact&theme=github_dark)](https://github.com/LouisTier/WebScraping_NBA)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTier&repo=WebApp_NBAStats&layout=compact&theme=github_dark)](https://github.com/LouisTier/WebApp_NBAStats)
-
-</div>
 -->
