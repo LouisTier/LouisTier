@@ -1,3 +1,4 @@
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="225"/>
 </div>
@@ -148,6 +149,7 @@ Icons by <a href="https://icons8.com">Icons8</a>.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisTIer&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisTier&show_icons=true&theme=github_dark)
+-->
 
 <!--
 Use this section to add comments/unused stuff
